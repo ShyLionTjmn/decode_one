@@ -11,7 +11,7 @@ import (
   "github.com/fatih/color"
   "github.com/gomodule/redigo/redis"
   "encoding/json"
-  . "github.com/ShyLionTjmn/aux"
+  . "github.com/ShyLionTjmn/mapaux"
   . "github.com/ShyLionTjmn/decode_dev"
 )
 
